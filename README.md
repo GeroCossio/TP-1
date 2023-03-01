@@ -6,7 +6,7 @@ La idea de este trabajo practico es la ejercitacion de Js
 
 ## Pre-requisitos 📋
 
-Cosas que se necesitan tener instaladas o configuradas previamente para utilizar tu proyecto
+Cosas que se necesitan tener instaladas o configuradas previamente para utilizar el proyecto
 
 - Visual
 
