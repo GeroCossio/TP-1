@@ -1,7 +1,7 @@
 //7.- Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres.
-let numero1 = prompt("Ingresa el primer número:");
-let numero2 = prompt("Ingresa el segundo número:");
-let numero3 = prompt("Ingresa el tercer número:");
+let numero1 = prompt("Ingresa el primer numero:");
+let numero2 = prompt("Ingresa el segundo numero:");
+let numero3 = prompt("Ingresa el tercer numero:");
 
 if (numero1 > numero2 && numero1 > numero3) {
   document.write("El primer numero es el mas grande: " + numero1);
